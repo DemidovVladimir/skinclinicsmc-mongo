@@ -1,6 +1,6 @@
 {
-  "host": "localhost",
-  "port": 1337,
+  "host": "https://young-reaches-36274.herokuapp.com/",
+  "port": "${process.env.PORT || 1337}",
   "cron": {
     "enabled": false
   },
