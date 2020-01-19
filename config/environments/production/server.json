@@ -12,6 +12,7 @@
     "enabled": false
   },
   "admin": {
-    "autoOpen": true
+    "autoOpen": true,
+    "path": "/dashboard"
   }
 }
