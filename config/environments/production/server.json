@@ -6,5 +6,8 @@
   },
   "admin": {
     "path": "/admin"
+  },
+  "autoReload": {
+    "enabled": true
   }
 }
